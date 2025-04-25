@@ -1,0 +1,65 @@
+# ninja log v6
+9	1274	7672969552459086	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+1294	6080	7672969554165184	CMakeFiles/GCodeOptimizerQt.dir/main.cpp.obj	5cdf52ccebdc152
+9	1274	7672969552459086	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+9	1274	7672969552459086	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+9	1274	7672969552459086	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+1283	6115	7672969554059834	CMakeFiles/GCodeOptimizerQt.dir/GCodeOptimizerQt_autogen/mocs_compilation.cpp.obj	454e896f15487043
+74	2794	7672970580319274	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+74	2794	7672970580319274	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+74	2794	7672970580319274	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+74	2794	7672970580319274	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+2831	5948	7672970583009382	CMakeFiles/GCodeOptimizerQt.dir/modules/Command.cpp.obj	12d4ee0033a8ec3
+2865	7444	7672970583339726	CMakeFiles/GCodeOptimizerQt.dir/modules/Test.cpp.obj	62035f8da630ddcc
+2842	7712	7672970583124487	CMakeFiles/GCodeOptimizerQt.dir/modules/Io.cpp.obj	bb53409365d53bb6
+2809	14137	7672970582786513	CMakeFiles/GCodeOptimizerQt.dir/main.cpp.obj	5409c7e8214b0d5c
+2797	14637	7672970582669111	CMakeFiles/GCodeOptimizerQt.dir/GCodeOptimizerQt_autogen/mocs_compilation.cpp.obj	8f188c8456956a75
+2853	14987	7672970583235032	CMakeFiles/GCodeOptimizerQt.dir/modules/Parse.cpp.obj	5f9f61d2aedc0690
+2820	15867	7672970582893979	CMakeFiles/GCodeOptimizerQt.dir/mainwindow.cpp.obj	6fe92f144cc151f4
+15868	20973	7672970713370173	GCodeOptimizerQt.exe	2261b103050c55b3
+31	1784	7672973524107635	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+31	1784	7672973524107635	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+31	1784	7672973524107635	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+31	1784	7672973524107635	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+1787	8919	7672973526041573	CMakeFiles/GCodeOptimizerQt.dir/GCodeOptimizerQt_autogen/mocs_compilation.cpp.obj	8f188c8456956a75
+1796	8921	7672973526139231	CMakeFiles/GCodeOptimizerQt.dir/main.cpp.obj	5409c7e8214b0d5c
+1807	9792	7672973526242160	CMakeFiles/GCodeOptimizerQt.dir/mainwindow.cpp.obj	6fe92f144cc151f4
+9792	12212	7672973606096325	GCodeOptimizerQt.exe	2261b103050c55b3
+12	247	7672975098187848	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+12	247	7672975098187848	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+12	247	7672975098187848	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+12	247	7672975098187848	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+248	4703	7672975100545636	CMakeFiles/GCodeOptimizerQt.dir/mainwindow.cpp.obj	6fe92f144cc151f4
+4704	7143	7672975145107634	GCodeOptimizerQt.exe	2261b103050c55b3
+13	242	7672978107914038	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+13	242	7672978107914038	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+13	242	7672978107914038	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+13	242	7672978107914038	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+32	256	7672979430639866	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+32	256	7672979430639866	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+32	256	7672979430639866	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+32	256	7672979430639866	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+257	6942	7672979432903620	CMakeFiles/GCodeOptimizerQt.dir/mainwindow.cpp.obj	6fe92f144cc151f4
+6942	10047	7672979499756223	GCodeOptimizerQt.exe	2261b103050c55b3
+18	346	7672983252807350	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+18	346	7672983252807350	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+18	346	7672983252807350	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+18	346	7672983252807350	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+36	291	7672983816330845	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+36	291	7672983816330845	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+36	291	7672983816330845	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+36	291	7672983816330845	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+293	7124	7672983818893020	CMakeFiles/GCodeOptimizerQt.dir/mainwindow.cpp.obj	6fe92f144cc151f4
+7124	10202	7672983887212306	GCodeOptimizerQt.exe	2261b103050c55b3
+32	270	7672987007995301	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+32	270	7672987007995301	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+32	270	7672987007995301	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+32	270	7672987007995301	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+271	5036	7672987010383395	CMakeFiles/GCodeOptimizerQt.dir/mainwindow.cpp.obj	6fe92f144cc151f4
+5036	7658	7672987058040160	GCodeOptimizerQt.exe	2261b103050c55b3
+41	311	7672990633468508	GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+41	311	7672990633468508	GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+41	311	7672990633468508	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/timestamp	ff9d9f279a0e8546
+41	311	7672990633468508	C:/Users/ceras/Documents/Qt Projects/GCodeOptimizerQt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/GCodeOptimizerQt_autogen/mocs_compilation.cpp	ff9d9f279a0e8546
+312	7539	7672990636183494	CMakeFiles/GCodeOptimizerQt.dir/mainwindow.cpp.obj	6fe92f144cc151f4
+7539	10371	7672990708441703	GCodeOptimizerQt.exe	2261b103050c55b3
