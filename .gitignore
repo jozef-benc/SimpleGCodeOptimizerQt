@@ -1,5 +1,6 @@
-# Custom
+# Ignore build folders
 /build/
+build/
 
 # C++ objects and libs
 *.slo
