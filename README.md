@@ -2,6 +2,8 @@
 
 Jednoduchá Qt desktopová aplikácia na optimalizáciu G-code súborov pre CNC stroje.
 
+![Preview](preview.jpg)
+
 ## Funkcionalita
 - Načítanie `.cnc` súboru zo vstupu.
 - Parsovanie a validácia CNC príkazov (`G0`, `G1`, `M3`, `M5`).
